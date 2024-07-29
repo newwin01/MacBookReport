@@ -1,5 +1,22 @@
 # MacBookReport
 
+### 2024-1 MacBook Usage Report
+
+#### Compiler Theory: Scanner and Parser 
+
+- [Compiler Theory: Scanner and Parser](/Compiler/)
+
+- 2024.3.4 ~ 2024.6.21
+
+- 컴파일러는 소스 코드를 기계어로 번역하는 프로그램으로, 이 과정에서 여러 단계를 거칩니다. 그 중에서도 스캐너(Scanner)와 파서(Parser)는 초기 단계에서 중요한 역할을 합니다.
+스캐너와 파서가 함께 작동하여 소스 코드가 올바르게 작성되었는지 확인하고, 컴파일러의 후속 단계(중간 코드 생성, 최적화, 코드 생성 등)로 넘길 수 있는 구조화된 표현을 제공합니다. 이처럼 스캐너와 파서는 컴파일러의 초기 단계에서 소스 코드의 의미를 해석하고 오류를 발견하는 데 중요한 역할을 합니다.
+
+#### 
+
+
+---
+
+
 ### 2023-2 MacBook Usage Report
 
 ### *Contributer: Sechang Jang*
